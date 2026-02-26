@@ -1,9 +1,6 @@
-# basic-project-15
+# JSON Formatter
 
-This is a basic project repository created automatically.
+This is a JSON Formatter repository created for imabot2604.
 
-## How to run
-
-```bash
-python3 main.py
-```
+## File
+- `json_tool.py`
